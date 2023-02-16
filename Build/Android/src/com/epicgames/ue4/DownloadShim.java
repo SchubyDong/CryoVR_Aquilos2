@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.CryoVR.Autogrid_Loading.OBBDownloaderService;
-import com.CryoVR.Autogrid_Loading.DownloaderActivity;
+import com.CryoVR.Aquilos.OBBDownloaderService;
+import com.CryoVR.Aquilos.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.CryoVR.Autogrid_Loading.OBBData;
+import com.CryoVR.Aquilos.OBBData;
 
 
 public class DownloadShim
