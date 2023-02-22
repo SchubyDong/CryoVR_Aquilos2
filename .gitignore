@@ -2,3 +2,9 @@ Saved/
 Binaries/Win64/AutogridLoading.pdb
 Intermediate/Build/Win64/AutogridLoading/Development/Core/SharedPCH.Core.h.pch
 Intermediate/
+Binaries/Android/Aquilos-Android-Shipping-arm64.apk
+Binaries/Android/Aquilos-Android-Shipping-armv7.apk
+Binaries/Android/Aquilos_Symbols_v1/Aquilos-arm64/libUE4.so
+Binaries/Android/Aquilos_Symbols_v1/Aquilos-armv7/libUE4.so
+Binaries/Android/Aquilos-Android-Shipping-arm64.so
+Binaries/Android/Aquilos-Android-Shipping-armv7.so
