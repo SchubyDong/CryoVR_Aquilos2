@@ -12,3 +12,6 @@ Binaries/Android/Aquilos-arm64.apk
 Binaries/Android/Aquilos-arm64.so
 Binaries/Android/Aquilos-armv7.apk
 Binaries/Android/Aquilos-armv7.so
+Binaries/Win64/Aquilos.exe
+Binaries/Win64/Aquilos.exp
+Binaries/Win64/Aquilos.pdb
