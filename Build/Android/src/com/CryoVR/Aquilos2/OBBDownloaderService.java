@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.CryoVR.Aquilos;
+package com.CryoVR.Aquilos2;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.CryoVR.Aquilos.AlarmReceiver.class.getName();
+        return com.CryoVR.Aquilos2.AlarmReceiver.class.getName();
     }
 }

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.CryoVR.Aquilos;
+package com.CryoVR.Aquilos2;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

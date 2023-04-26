@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.CryoVR.Aquilos;
+package com.CryoVR.Aquilos2;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
