@@ -15,3 +15,6 @@ Binaries/Android/Aquilos-armv7.so
 Binaries/Win64/Aquilos.exe
 Binaries/Win64/Aquilos.exp
 Binaries/Win64/Aquilos.pdb
+*.so
+Binaries/Win64/Aquilos-Win64-Shipping.exe
+*.pdb
